@@ -66,55 +66,55 @@ def main():
             CtoZ(row)
 
 # The overall heading of our text file
-    print("### New Acquisitions This Month", file=fileout)
+    print("## New Acquisitions This Month", file=fileout)
     print("---", file=fileout)
 
 # Here we insert the sections one at a time from their lists
     # New As
     if len(alist) != 0:
-        print("#### New As:", file=fileout)
+        print("### New As:", file=fileout)
         for item in alist:
             print(item, file=fileout)
 
     # New B to BPs
     if len(btobplist) != 0:
-        print("#### New B - BPs:", file=fileout)
+        print("### New B - BPs:", file=fileout)
         for item in btobplist:
             print(item, file=fileout)
 
     # New BRs
     if len(brlist) != 0:
-        print("#### New BRs:", file=fileout)
+        print("### New BRs:", file=fileout)
         for item in brlist:
             print(item, file=fileout)
 
     # New BSs
     if len(bslist) != 0:
-        print("#### New BSs:", file=fileout)
+        print("### New BSs:", file=fileout)
         for item in bslist:
             print(item, file=fileout)
 
     # New BTs
     if len(btlist) != 0:
-        print("#### New BTs:", file=fileout)
+        print("### New BTs:", file=fileout)
         for item in btlist:
             print(item, file=fileout)
 
     # New BVs
     if len(bvlist) != 0:
-        print("#### New BVs:", file=fileout)
+        print("### New BVs:", file=fileout)
         for item in bvlist:
             print(item, file=fileout)
 
     # New BXs
     if len(bxlist) != 0:
-        print("#### New BXs:", file=fileout)
+        print("### New BXs:", file=fileout)
         for item in bxlist:
             print(item, file=fileout)
 
     # New C to Zs
     if len(ctozlist) != 0:
-        print("#### New C - Zs:", file=fileout)
+        print("### New C - Zs:", file=fileout)
         for item in ctozlist:
             print(item, file=fileout)
 
