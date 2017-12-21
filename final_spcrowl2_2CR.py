@@ -127,7 +127,7 @@ def main():
 # whole set to the appropriate list.
 def A(item):
     if len(item[5]) != 0:
-        itemdesc = "##### " + item[5] + "\n"
+        itemdesc = "**" + item[5] + "**\n"
         if len(item[6]) != 0:
             itemdesc += "**By " + item[6] + "**\n"
         itemdesc += "**Call Number**: " + item[4]
@@ -135,7 +135,7 @@ def A(item):
 
 def BtoBP(item):
     if len(item[5]) != 0:
-        itemdesc = "##### " + item[5] + "\n"
+        itemdesc = "**" + item[5] + "**\n"
         if len(item[6]) != 0:
             itemdesc += "**By " + item[6] + "**\n"
         itemdesc += "**Call Number**: " + item[4]
@@ -143,7 +143,7 @@ def BtoBP(item):
 
 def BR(item):
     if len(item[5]) != 0:
-        itemdesc = "##### " + item[5] + "\n"
+        itemdesc = "**" + item[5] + "**\n"
         if len(item[6]) != 0:
             itemdesc += "**By " + item[6] + "**\n"
         itemdesc += "**Call Number**: " + item[4]
@@ -151,7 +151,7 @@ def BR(item):
 
 def BS(item):
     if len(item[5]) != 0:
-        itemdesc = "##### " + item[5] + "\n"
+        itemdesc = "**" + item[5] + "**\n"
         if len(item[6]) != 0:
             itemdesc += "**By " + item[6] + "**\n"
         itemdesc += "**Call Number**: " + item[4]
@@ -159,7 +159,7 @@ def BS(item):
 
 def BT(item):
     if len(item[5]) != 0:
-        itemdesc = "##### " + item[5] + "\n"
+        itemdesc = "**" + item[5] + "**\n"
         if len(item[6]) != 0:
             itemdesc += "**By " + item[6] + "**\n"
         itemdesc += "**Call Number**: " + item[4]
@@ -167,7 +167,7 @@ def BT(item):
 
 def BV(item):
     if len(item[5]) != 0:
-        itemdesc = "##### " + item[5] + "\n"
+        itemdesc = "**" + item[5] + "**\n"
         if len(item[6]) != 0:
             itemdesc += "**By " + item[6] + "**\n"
         itemdesc += "**Call Number**: " + item[4]
@@ -175,7 +175,7 @@ def BV(item):
 
 def BX(item):
     if len(item[5]) != 0:
-        itemdesc = "##### " + item[5] + "\n"
+        itemdesc = "**" + item[5] + "**\n"
         if len(item[6]) != 0:
             itemdesc += "**By " + item[6] + "**\n"
         itemdesc += "**Call Number**: " + item[4]
@@ -183,7 +183,7 @@ def BX(item):
 
 def CtoZ(item):
     if len(item[5]) != 0:
-        itemdesc = "##### " + item[5] + "\n"
+        itemdesc = "**" + item[5] + "**\n"
         if len(item[6]) != 0:
             itemdesc += "**By " + item[6] + "**\n"
         itemdesc += "**Call Number**: " + item[4]
