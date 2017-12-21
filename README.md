@@ -13,23 +13,24 @@ Please do not use without permission.
 For questions, please contact me: spcrowl2@illinois.edu
 
 Sample:
-  ### New Acquisitions This Month
-  ---
-  #### New B - BPs:
-  **The middle Platonists : 80 B.C. to A.D. 220**
-  
-  **Call Number**: B505 .D55 1977
-  
-  
-  **Thomas and the Thomists : the achievement of Thomas Aquinas and his interpreters / Romanus Cessario, OP, and Cajetan Cuddy, OP**
-  
-  **By Cessario, Romanus, author.**
-  
-  **Call Number**: B765 .T54 C478 2017
-  
-  
-  **Individuum und Kosmos in der Philosophie der Renaissance**
-  
-  **By Cassirer, Ernst, 1874-1945.**
-  
-  **Call Number**: B775 .C3 1963
+## New Acquisitions This Month
+---
+### New B - BPs:
+
+**The middle Platonists : 80 B.C. to A.D. 220**
+
+**Call Number**: B505 .D55 1977
+
+
+**Thomas and the Thomists : the achievement of Thomas Aquinas and his interpreters / Romanus Cessario, OP, and Cajetan Cuddy, OP**
+
+**By Cessario, Romanus, author.**
+
+**Call Number**: B765 .T54 C478 2017
+
+
+**Individuum und Kosmos in der Philosophie der Renaissance**
+
+**By Cassirer, Ernst, 1874-1945.**
+
+**Call Number**: B775 .C3 1963
