@@ -2,6 +2,7 @@
 Uploaded to GitHub by Paige Crowl on 12/21/17
 
 For use at Pitts Theology Library at Emory University, Atlanta, GA
+
 Created as a final project for IS452 at the iSchool at University of Illinois, Champaign-Urbana
 
 This code is intended to turn CSV files downloaded from ExLibris Alma containing info about new aquisitions into a text file formatted in Markdown for upload for a library website. The text file is formatted into categories by call number, with items in call number order. Each new item's title, author (when available), and call number are listed. Sample text is below.
